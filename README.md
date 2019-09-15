@@ -1,1 +1,7 @@
-Privacy Policy for ComicReader
+# ComicReader
+
+## Privacy Policy
+
+ComicReader is an application that relies on the user's files. No account is required. No authentication is required. We **never** ask for user information.
+
+We doesn't collect information about the user. We only collect information about how the app is used. This is only for identifying the most used features of the app, so we can perfect them in priority.
